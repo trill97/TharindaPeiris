@@ -25,7 +25,7 @@ I'm Tharinda Peiris, a passionate software engineer with a BSc Hons degree in so
 - Exploring the Maldives when not coding
 
 📫 **Connect with Me:**
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/tharinda-peiris/))
+- LinkedIn: [([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/tharinda-peiris/))]
 - Twitter: [Your Twitter Handle](https://twitter.com/TharindaPeiris)
 
 📈 **GitHub Stats:**
